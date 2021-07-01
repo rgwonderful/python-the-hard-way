@@ -7,7 +7,7 @@ y = f"those who know {binary} and those who {do_not}."
 
 print(x)
 print(y)
-# odd taxi ed
+
 print(f"i said: {x}")
 print(f"i also said '{y}'")
 
